@@ -1,6 +1,6 @@
 //Approach - 1: Iterative
 //Time Complexity : O(1) // constant values in array max O(8)
-//Space Complexity : O(n) // using extra space
+//Space Complexity : O(1) 
 
 public class Main {
     public static void main(String[] args) {
