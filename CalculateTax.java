@@ -1,4 +1,4 @@
-//Approach - 1: Linear
+//Approach - 1: Iterative
 //Time Complexity : O(1) // constant values in array max O(8)
 //Space Complexity : O(n) // using extra space
 
